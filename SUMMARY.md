@@ -4,7 +4,7 @@
 
 ## Later to read
 
-* [Page 2](later-to-read/page-2.md)
+* [2025](later-to-read/2025.md)
 
 ## Math
 
