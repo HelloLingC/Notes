@@ -2,7 +2,6 @@
 
 板载LED是GPIO2管脚
 
-````
 ```cpp
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
@@ -15,9 +14,5 @@ void loop() {
   digitalWrite(LED_BUILDIN, LOW);
   delay(1000);
 }
-
 ```
-````
-
-
 
